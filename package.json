@@ -1,0 +1,8 @@
+{
+  "name": "overwatch-team-bot",
+  "version": "1.0",
+  "description": "Create a live updating Overwatch roster display.",
+  "main": "bot.js",
+  "author": "Bread (Collin Riggs)",
+  "dependencies": {}
+}
