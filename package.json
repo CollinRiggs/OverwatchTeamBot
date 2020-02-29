@@ -4,5 +4,7 @@
   "description": "Create a live updating Overwatch roster display.",
   "main": "bot.js",
   "author": "Bread (Collin Riggs)",
-  "dependencies": {}
+  "dependencies": {
+    "discord.js": "^11.6.1"
+  }
 }
