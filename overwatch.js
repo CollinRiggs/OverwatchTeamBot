@@ -29,5 +29,3 @@ class Role {
     this.emoji = emoji;
   }
 }
-
-#Test
